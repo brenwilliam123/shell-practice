@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Person1="William"
+Person1="William" #there should be no spaces around the equal sign
 Person2="Stalin"
 
 echo "$Person1: Hey $Person2, how are you?"
