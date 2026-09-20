@@ -11,3 +11,5 @@ echo "Third fruit: ${fruits[2]}"
 # Get the length of the array
 length=${#fruits[@]}
 echo "Number of fruits: $length"
+
+echo "All fruits: ${fruits[@]}"
