@@ -6,4 +6,5 @@ Number2=20
 TIMESTAMP=$(date) #this is a variable that stores the current timestamp
 echo "Script executed at: $TIMESTAMP"
 
-#Sum=$((Number1+Number2))                              
+Sum=$((Number1+Number2)) 
+echo "The sum of $Number1 and $Number2 is: $Sum"                             
